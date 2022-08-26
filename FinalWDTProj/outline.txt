@@ -1,0 +1,13 @@
+﻿Category       crud done
+Users  crud done
+Product page crud?   update section glitching :(
+Login Page
+
+Shopping Cart
+
+Display Products
+
+Delivery Boy [see erd to modify or not]
+
+
+unified offline css
